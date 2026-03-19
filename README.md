@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Xueying👋
 
-<!--
-**Xying-Guo/Xying-Guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am documenting my self-learning journey in data science.
 
-Here are some ideas to get you started:
+## What I'm learning 🔭
+- Python
+- SQL
+- Statistics
+- Machine Learning
+- LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Learning Repository 🌱
+
+## Projects 📫
+
+## Weekly Reviews
+- I write weekly reflections and study notes in my main repository.
